@@ -1,0 +1,7 @@
+C:\Users\FayaZ\documents\visual studio 2010\Projects\filing\filing\bin\Release\filing.exe
+C:\Users\FayaZ\documents\visual studio 2010\Projects\filing\filing\bin\Release\filing.pdb
+C:\Users\FayaZ\documents\visual studio 2010\Projects\filing\filing\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\FayaZ\documents\visual studio 2010\Projects\filing\filing\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\FayaZ\documents\visual studio 2010\Projects\filing\filing\obj\x86\Release\filing.csproj.GenerateResource.Cache
+C:\Users\FayaZ\documents\visual studio 2010\Projects\filing\filing\obj\x86\Release\filing.exe
+C:\Users\FayaZ\documents\visual studio 2010\Projects\filing\filing\obj\x86\Release\filing.pdb

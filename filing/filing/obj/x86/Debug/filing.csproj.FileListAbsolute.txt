@@ -1,0 +1,8 @@
+C:\Users\FayaZ\documents\visual studio 2010\Projects\filing\filing\bin\Debug\filing.exe
+C:\Users\FayaZ\documents\visual studio 2010\Projects\filing\filing\bin\Debug\filing.pdb
+C:\Users\FayaZ\documents\visual studio 2010\Projects\filing\filing\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\FayaZ\documents\visual studio 2010\Projects\filing\filing\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\FayaZ\documents\visual studio 2010\Projects\filing\filing\obj\x86\Debug\filing.csproj.GenerateResource.Cache
+C:\Users\FayaZ\documents\visual studio 2010\Projects\filing\filing\obj\x86\Debug\filing.exe
+C:\Users\FayaZ\documents\visual studio 2010\Projects\filing\filing\obj\x86\Debug\filing.pdb
+C:\Users\FayaZ\documents\visual studio 2010\Projects\filing\filing\obj\x86\Debug\filing.csprojResolveAssemblyReference.cache
